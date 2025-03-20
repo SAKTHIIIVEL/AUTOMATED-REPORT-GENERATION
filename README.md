@@ -18,3 +18,4 @@ This Python script automates the analysis and visualization of sales data from a
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c8f0e375-d253-4eb5-9781-b7ba6d44e9de)
